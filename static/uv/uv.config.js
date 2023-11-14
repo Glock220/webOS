@@ -10,9 +10,7 @@ self.__uv$config = {
      * The bare path.
      * @type {string}
      */
-    bare: [
-        '/bare/',
-      ],
+    bare: '/bare/',
 
     /**
      * Function to encode URLs using Ultraviolet's XOR codec.
